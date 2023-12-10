@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.red{
+    color: #d66e69;
+    font-family: 'PT Sans', sans-serif;
+}
+hr{
+    margin: 10px;
+    border: 2px solid #d66e69;
+    width: 300px;
+}
+.head-p{
+    margin: 10px;
+}
+.chefs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chef1, .chef2, .chef3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center ;
+    width: 29vw;
+    /* border: 1px solid red; */
+    box-shadow: -0.1px -0.1px 5px #878787, 0.1px 0.1px 5px #878787;
+    margin: 25px;
+}
+.desc{
+    padding: 30px 50px 20px 50px;
+}
+p, h2{
+    text-align: center;
+}
+.name1, .name2, .name3{
+    /* border: 1px solid green; */
+    box-shadow: -0.1px -0.1px 5px #878787, 0.1px 0.1px 5px #878787;
+    background-color: #fff;
+    margin-top: -40px;
+    padding: 10px;
+    width: 300px;
+}
+.name1 p, .name2 p, .name3 p{
+    font-weight: bold;
+}
+.chef_img{
+    width: 397px;
+}
+.logo{
+    width: 25px;
+    margin: 5px;
+}
