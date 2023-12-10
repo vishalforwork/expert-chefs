@@ -1,3 +1,3 @@
 # expert-chefs
  A project made using HTML and CSS about hotel portfolio
-![demo_image](https://github.com/vishalforwork/expert-chefs/assets/131588842/30f0a169-3d81-4041-895d-49b52d126406)
+![demo_image](https://github.com/vishalforwork/expert-chefs/assets/131588842/02a54b2b-b657-4d21-a36a-d8fe50b57c85)
